@@ -30,6 +30,12 @@ This project focuses on improving clarity rather than simulating a real system.
 
 ---
 
+## Figma Link 
+
+https://www.figma.com/design/RW98etTlFDlS1YRf8rhPzw/ecu-system?node-id=0-1&t=4ELNdWcr2Dwy6r1q-1
+
+---
+
 ## Skills Demonstrated
 
 - Visual storytelling  
@@ -39,12 +45,6 @@ This project focuses on improving clarity rather than simulating a real system.
 - Conceptual understanding of ECU systems  
 
 ---
-## Figma Link 
-
-https://www.figma.com/design/RW98etTlFDlS1YRf8rhPzw/ecu-system?node-id=0-1&t=4ELNdWcr2Dwy6r1q-1
-
----
-
 ## Notes
 
 This is a conceptual visualization project designed for educational and communication purposes, not a functional simulation or embedded implementation.
