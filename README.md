@@ -42,6 +42,7 @@ This project focuses on improving clarity rather than simulating a real system.
 ## Figma Link 
 
 https://www.figma.com/design/RW98etTlFDlS1YRf8rhPzw/ecu-system?node-id=0-1&t=4ELNdWcr2Dwy6r1q-1
+
 ---
 
 ## Notes
