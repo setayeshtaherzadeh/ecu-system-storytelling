@@ -1,53 +1,77 @@
-# Inside an ECU System — Storytelling Visualization
+# ECU System — Automotive Information Design
 
-A visual storytelling project that illustrates how a vehicle’s Electronic Control Unit (ECU) processes sensor data, communicates over the CAN Bus network, and triggers actuator responses within a real-time control loop.
+A structured visual representation of how a vehicle’s Electronic Control Unit (ECU) operates within a real-time control system.
 
----
-
-## Goal
-
-The goal of this project is to make a complex automotive concept more understandable by presenting it through clear visual storytelling and structured information design.
-
-This project focuses on improving clarity rather than simulating a real system.
+This work is an **information design infographic** that simplifies a complex automotive architecture into a clear, step-by-step visual flow.
 
 ---
 
-## Tools
+## Overview
 
-- Figma  
-- Automotive system references  
-- Information design principles  
+Modern vehicles rely on distributed electronic systems that process real-time sensor data and coordinate mechanical responses.
 
----
+This infographic illustrates the core interaction loop between:
 
-## Topics Covered
-
-- Sensor data input flow  
-- Basic ECU decision-making logic  
-- CAN Bus communication overview  
-- Actuator response mechanism  
-- Closed-loop control concept  
+* Sensors
+* ECU (Electronic Control Unit)
+* CAN Bus communication layer
+* Actuators
 
 ---
 
-## Figma Link 
+## System Explanation
 
+The system operates as a closed feedback loop:
+
+1. **Sensors** collect environmental and vehicle data
+2. **ECU** processes and interprets incoming signals
+3. **CAN Bus** distributes control messages across subsystems
+4. **Actuators** execute physical actions
+5. Feedback is continuously measured and returned to sensors
+
+This loop enables real-time vehicle control and system stability.
+
+---
+
+## Design Purpose
+
+The purpose of this infographic is to:
+
+* Break down a complex embedded system into understandable parts
+* Improve clarity for non-technical audiences
+* Visualize system-level architecture in a structured format
+* Communicate flow rather than engineering detail
+
+---
+
+## Category
+
+* Information Design
+* Technical Infographic
+* System Visualization
+
+---
+
+## Design Characteristics
+
+* Layered visual hierarchy
+* Color-coded system separation
+* Directional flow for readability
+* Modular system breakdown
+* Feedback loop visualization
+
+---
+
+## Scope
+
+This is a conceptual visualization only and does not represent a real-time simulation or production ECU implementation.
+
+---
+
+## Source
+
+Figma Design:
 https://www.figma.com/design/RW98etTlFDlS1YRf8rhPzw/ecu-system?node-id=0-1&t=4ELNdWcr2Dwy6r1q-1
 
----
-
-## Skills Demonstrated
-
-- Visual storytelling  
-- Information visualization  
-- Technical communication  
-- Diagram design  
-- Conceptual understanding of ECU systems  
-
----
-## Notes
-
-This is a conceptual visualization project designed for educational and communication purposes, not a functional simulation or embedded implementation.
-* Automotive systems understanding
 
 
