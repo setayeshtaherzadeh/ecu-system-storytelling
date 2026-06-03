@@ -1,77 +1,58 @@
-# ECU System — Automotive Information Design
+# ECU System — Information Design
 
-A structured visual representation of how a vehicle’s Electronic Control Unit (ECU) operates within a real-time control system.
+A visual breakdown of how a vehicle’s Electronic Control Unit (ECU) works inside a real-time control system.
 
-This work is an **information design infographic** that simplifies a complex automotive architecture into a clear, step-by-step visual flow.
+This infographic simplifies the relationship between sensors, the ECU, the CAN bus network, and actuators into a clear step-by-step flow.
 
 ---
 
 ## Overview
 
-Modern vehicles rely on distributed electronic systems that process real-time sensor data and coordinate mechanical responses.
+Modern vehicles rely on connected electronic systems that continuously process data and respond in real time.
 
-This infographic illustrates the core interaction loop between:
+This diagram shows the basic structure of that loop:
 
-* Sensors
-* ECU (Electronic Control Unit)
-* CAN Bus communication layer
-* Actuators
+- Sensors collect data from the vehicle and environment
+- The ECU processes and interprets this data
+- The CAN Bus distributes signals between components
+- Actuators execute physical actions based on those signals
 
----
-
-## System Explanation
-
-The system operates as a closed feedback loop:
-
-1. **Sensors** collect environmental and vehicle data
-2. **ECU** processes and interprets incoming signals
-3. **CAN Bus** distributes control messages across subsystems
-4. **Actuators** execute physical actions
-5. Feedback is continuously measured and returned to sensors
-
-This loop enables real-time vehicle control and system stability.
+The process runs continuously as a closed feedback loop.
 
 ---
 
-## Design Purpose
+## Focus
 
-The purpose of this infographic is to:
+The goal of this work is clarity.
 
-* Break down a complex embedded system into understandable parts
-* Improve clarity for non-technical audiences
-* Visualize system-level architecture in a structured format
-* Communicate flow rather than engineering detail
+It’s designed to take a complex system and present it in a way that is easy to understand at a glance, without requiring technical background in automotive engineering.
 
 ---
 
-## Category
+## What this shows
 
-* Information Design
-* Technical Infographic
-* System Visualization
-
----
-
-## Design Characteristics
-
-* Layered visual hierarchy
-* Color-coded system separation
-* Directional flow for readability
-* Modular system breakdown
-* Feedback loop visualization
+- System-level thinking
+- Information hierarchy
+- Data flow between components
+- Feedback loop behavior in embedded systems
 
 ---
 
-## Scope
+## Design Approach
 
-This is a conceptual visualization only and does not represent a real-time simulation or production ECU implementation.
+- Simple visual grouping of system components
+- Clear directional flow to show process order
+- Color separation for each system layer
+- Minimal detail to keep focus on structure, not complexity
 
 ---
 
-## Source
+## Note
 
-Figma Design:
+This is a conceptual infographic created for educational and communication purposes. It is not a functional simulation or production-level system.
+
+---
+
+Figma:  
 https://www.figma.com/design/RW98etTlFDlS1YRf8rhPzw/ecu-system?node-id=0-1&t=4ELNdWcr2Dwy6r1q-1
-
-
 
