@@ -53,6 +53,6 @@ This is a conceptual infographic created for educational and communication purpo
 
 ---
 
-Figma:  
+## Figma:  
 https://www.figma.com/design/RW98etTlFDlS1YRf8rhPzw/ecu-system?node-id=0-1&t=4ELNdWcr2Dwy6r1q-1
 
