@@ -1,31 +1,46 @@
-# ecu-system-storytelling
+# Inside an ECU System — Storytelling Visualization
 
-# Inside an ECU System
+A visual storytelling project that illustrates how a vehicle’s Electronic Control Unit (ECU) processes sensor data, communicates over the CAN Bus network, and triggers actuator responses within a real-time control loop.
 
-A visual storytelling project created to explain how modern vehicle Electronic Control Units (ECUs) process sensor data, communicate through the CAN Bus network, and control actuators in a real-time feedback loop.
+---
 
 ## Goal
 
-The objective of this project was to simplify a complex automotive engineering concept and make it understandable for students, developers, and automotive enthusiasts through visual communication and information design.
+The goal of this project is to make a complex automotive concept more understandable by presenting it through clear visual storytelling and structured information design.
+
+This project focuses on improving clarity rather than simulating a real system.
+
+---
 
 ## Tools
 
-* Figma
-* Automotive systems research
-* Information design principles
+- Figma  
+- Automotive system references  
+- Information design principles  
+
+---
 
 ## Topics Covered
 
-* Sensor inputs
-* ECU decision making
-* CAN Bus communication
-* Actuator control
-* Closed-loop feedback systems
+- Sensor data input flow  
+- Basic ECU decision-making logic  
+- CAN Bus communication overview  
+- Actuator response mechanism  
+- Closed-loop control concept  
+
+---
 
 ## Skills Demonstrated
 
-* Visual storytelling
-* Information architecture
-* Technical communication
-* Diagram design
+- Visual storytelling  
+- Information visualization  
+- Technical communication  
+- Diagram design  
+- Conceptual understanding of ECU systems  
+
+---
+
+## Notes
+
+This is a conceptual visualization project designed for educational and communication purposes, not a functional simulation or embedded implementation.
 * Automotive systems understanding
